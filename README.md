@@ -1,6 +1,6 @@
 # NTNU Swarm Intelligence - [ Assignment 3 ]
 ## Deployment 📺
-The report is published online at: https://wandb.ai/piperunner/ntnu-si-assignment-3/reports/NTNU-SI-Assignment-3--VmlldzoyOTIxMDEy
+The report is published online at: https://wandb.ai/piperunner/ntnu-si-assignment-3/reports/NTNU-SI-Assignment-3--VmlldzoyOTIxMDEy  
 The Github repository for the code is available at: https://github.com/Pipe-Runner/ntnu-si-assignment-3
 ## Structure 📦
 The project structure is as follows:  
