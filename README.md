@@ -1,7 +1,7 @@
-# NTNU Data Processing & Visualisation - [ Assignment 4 ]
+# NTNU Swarm Intelligence - [ Assignment 3 ]
 ## Deployment 📺
-The report is published online at: https://pipe-runner.github.io/ntnu-dpnv-assignment-4/  
-The Github repository for the code is available at: https://github.com/Pipe-Runner/ntnu-dpnv-assignment-4
+The report is published online at: https://wandb.ai/piperunner/ntnu-si-assignment-3/reports/NTNU-SI-Assignment-3--VmlldzoyOTIxMDEy
+The Github repository for the code is available at: https://github.com/Pipe-Runner/ntnu-si-assignment-3
 ## Structure 📦
 The project structure is as follows:  
 1. `notebooks` - holds all the jupyter notebooks associated with the project. They are numbered in the order they are meant to be read.
